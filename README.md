@@ -1,16 +1,17 @@
 # 📚 Book List Manager
 
-A simple and interactive Book List Manager built with HTML, CSS, and JavaScript. This project allows users to manage a list of books through a clean and user-friendly interface.
+A simple book list manager built with HTML, CSS, and JavaScript. It provides an interactive interface for adding, searching, and removing books.
 
 ## ✨ Features
 
-- **Add Books:** Add new books to your list.
-- **Delete Books:** Remove books you no longer need.
-- **Search Books:** Find books by typing in the search field.
-- **Show/Hide List:** Toggle the visibility of the book list.
-- **Local Storage:** Save book data in the browser so it can persist between visits.
+- Add books to the list
+- Prevent empty and duplicate book entries
+- Search books by name
+- Remove books from the list
+- Show or hide the book list
+- Store book data in browser Local Storage
 
-## 🛠️ Technologies Used
+## 🛠️ Technologies
 
 - HTML5
 - CSS3
@@ -30,7 +31,7 @@ Book-list/
 
 ## 🚀 Getting Started
 
-1. Clone this repository:
+1. Clone the repository:
 
    ```bash
    git clone https://github.com/hsanrze2006/Book-list.git
@@ -39,18 +40,12 @@ Book-list/
 2. Open the project folder.
 3. Open `index.html` in your browser.
 
-No additional dependencies or installation steps are required.
+No package installation is required.
 
-## 🎯 What I Learned
+## 🎯 Learning Goals
 
-Through this project, I practiced working with the DOM, handling user events, creating interactive features with JavaScript, filtering list items, and storing data in the browser using Local Storage.
+This project practices DOM manipulation, event handling, list filtering, form validation, and browser Local Storage.
 
 ## 👨‍💻 Author
 
-**dev_Nux**
-
-- GitHub: [@hsanrze2006](https://github.com/hsanrze2006)
-
----
-
-*Built as part of my web development learning journey.*
+GitHub: [@hsanrze2006](https://github.com/hsanrze2006)
